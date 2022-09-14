@@ -3,7 +3,7 @@
 ## About the Project
 *Project developed in the Network Science course at IST (Lisbon)*
 
-This project focuses on how distributions of offer and demand evolve over time, across multiple scenarios and different types of players.
+Inspired in the Ultimatum Game, this project focuses on how distributions of offer and demand evolve over time, across multiple scenarios and different types of players.
 
 ## Installation
 Before running any program, one may want to verify that the Numpy and Matplotlib libraries are installed.
