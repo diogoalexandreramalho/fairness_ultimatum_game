@@ -1,9 +1,14 @@
-Complex Network Science - Second Project
+# Fairness in the Ultimatum Game
 
-Fairness in the Ultimatum Game
+## About the Project
+*Project developed in the Network Science course at IST (Lisbon)*
 
+This project focuses on how distributions of offer and demand evolve over time, across multiple scenarios and different types of players.
+
+## Installation
 Before running any program, one may want to verify that the Numpy and Matplotlib libraries are installed.
 
+## How to run 
 [] represents optional arguments
 
 There are several scripts which execute different types of simulations:
@@ -24,3 +29,6 @@ There are several scripts which execute different types of simulations:
 population and neighbours.
 
 	python3 n_ring_runs
+
+## Contributors
+The project was developed by André Ribeiro, Diogo Ramalho and Jorge Pacheco.
